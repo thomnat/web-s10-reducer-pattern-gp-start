@@ -53,5 +53,9 @@
   "engines": {
     "node": ">=18.x",
     "npm": ">=9.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bloominstituteoftechnology/web-s10-reducer-pattern-gp-start.git"
   }
 }
