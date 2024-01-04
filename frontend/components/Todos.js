@@ -23,7 +23,7 @@ export default function Todo({
         }
       </ul>
       <button>
-        Show completed todos
+        Hide completed todos
       </button>
     </div>
   )
